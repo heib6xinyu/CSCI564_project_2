@@ -1,11 +1,9 @@
-run the four files by
+# run the four files in four separate cmd windows
++ python comet.py
++ python glados.py
++ python queeg.py
++ python rhea.py
 
-python comet.py
-
-python glados.py
-
-python queeg.py
-
-python rhea.py
-
-in four separate cmd windows.
+```
+note: Still need implimentation of certain case
+```
